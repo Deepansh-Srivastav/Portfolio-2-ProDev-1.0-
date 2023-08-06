@@ -1,0 +1,10 @@
+.navBtn{
+    padding: 10px 30px;
+    font-size: 20px;
+    background-color: grey;
+    cursor: pointer;
+}
+.navBtn:hover{
+    transform: scale(1.04);
+    transition: .5s;
+}
